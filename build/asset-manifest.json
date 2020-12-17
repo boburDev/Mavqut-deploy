@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34e6aa2b.chunk.css",
+    "main.js": "/static/js/main.79cdec81.chunk.js",
+    "main.js.map": "/static/js/main.79cdec81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08f7e959.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08f7e959.js.map",
+    "static/js/2.3f9da1c4.chunk.js": "/static/js/2.3f9da1c4.chunk.js",
+    "static/js/2.3f9da1c4.chunk.js.map": "/static/js/2.3f9da1c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.34e6aa2b.chunk.css.map": "/static/css/main.34e6aa2b.chunk.css.map",
+    "static/js/2.3f9da1c4.chunk.js.LICENSE.txt": "/static/js/2.3f9da1c4.chunk.js.LICENSE.txt",
+    "static/media/background.1b15d0df.png": "/static/media/background.1b15d0df.png",
+    "static/media/clouds.b3639584.png": "/static/media/clouds.b3639584.png",
+    "static/media/little-towers.3b2f14ad.png": "/static/media/little-towers.3b2f14ad.png",
+    "static/media/moon.fbde6dbc.png": "/static/media/moon.fbde6dbc.png",
+    "static/media/mosque.6900dbf5.png": "/static/media/mosque.6900dbf5.png",
+    "static/media/towers.290832e6.png": "/static/media/towers.290832e6.png",
+    "static/media/way.4841a879.png": "/static/media/way.4841a879.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f7e959.js",
+    "static/js/2.3f9da1c4.chunk.js",
+    "static/css/main.34e6aa2b.chunk.css",
+    "static/js/main.79cdec81.chunk.js"
+  ]
+}
